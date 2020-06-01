@@ -5,7 +5,7 @@ This project used data which is not in a standard form also the original columns
 Steps Used:
 1) Importing Libraries
 2) Reading the data
-3) Starndartizing the data
+3) Standartizing the data
 4) Splitting data
 5) Finding the best K value for KNeighborsClassifier
 6) Visualising K value with Error Rate
